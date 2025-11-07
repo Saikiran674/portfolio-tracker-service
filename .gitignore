@@ -1,0 +1,16 @@
+target/
+.idea/
+*.iml
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Maven
+.mvn/
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
